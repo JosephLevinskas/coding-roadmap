@@ -1,4 +1,4 @@
-#Shell
+# Shell
 The shell is a program that takes keyboard commands and passes them to the OS
 Almost all linux distros use bash from the GNU project
 use bash command to start bash session on mac instead of zsh
@@ -13,7 +13,7 @@ df - current amount of free space on disk drives
 free - current free memory
 exit or ctrl-D to end session
 
-#Navigation
+# Navigation
 Uses a hierarchical directory structure
 This means it is a tree like pattern of directories or folders 
 The first directory is called the root directory

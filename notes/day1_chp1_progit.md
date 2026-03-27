@@ -1,9 +1,9 @@
-#DVCS - distributed version control system
+# DVCS - distributed version control system
 A server has a copy of all the files and change history
 Then each file checkout on a local computer also gets the full history this way all the data isn't in one place
 This is what git is
 
-#GIT
+# GIT
 Git takes snapshots of changed and references files that didn't change instead of fully copying each time
 this makes it like a mini file system
 You have the entire history of the project on your device so it is very quick

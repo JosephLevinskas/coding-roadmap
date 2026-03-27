@@ -1,19 +1,19 @@
-#Running python3 in terminal
+# Running python3 in terminal
 use command: python3
 then type any line of command and it will run
 use cntrl-z to escape session
 
-#Basic Python
+# Basic Python
 A file ending with .py indicates a file is a python file
 Editor then runs file through python interpreter 
 
-#Variables
+# Variables
 Every variable is associated with a value which is connected 
 Can reassign the value of a variable with the = operator 
 variable names can only have letters, numbers and underscores and cannot start with a number
 -Variables are labels you can assign to values
 
-#Error reading
+# Error reading
 “Traceback (most recent call last):
 ➊    File "hello_world.py", line 2, in <module>
 ➋      print(mesage)
@@ -22,7 +22,7 @@ variable names can only have letters, numbers and underscores and cannot start w
 2 tells us the exact line written
 3 gives info on the type of error
 
-#Strings
+# Strings
 A string is a series of characters 
 Anything inside quotes is considered a string in python
 You can use single or double quotes as long as it is consistent
@@ -38,7 +38,7 @@ use .rstrip() to remove extra whitespace at the end of a string
 .lstrip() for beginning of string
 and just .strip() to remove both
 
-#Numbers
+# Numbers
 can +, -, *, / numbers in python
 ** for exponents
 dividing any 2 numbers in python gives a float
